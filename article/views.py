@@ -143,7 +143,7 @@ def archive(request):
             locals(),
             context_instance=RequestContext(request))
 class RSSFeed(Feed) :
-    title = "RSS feed - TmacKan的小站"
+    title = "RSS feed - bianbian的小站"
     link = "feeds/posts/"
     description = "RSS feed - blog posts"
 

@@ -625,7 +625,7 @@ sub { bottom: -0.25em; }
 	background-size:100%;
 }
 
-#header .container { padding: 0 40px; }
+#header .container { padding: 0 30px; }
 
 #header a { 
   text-decoration: none; 
